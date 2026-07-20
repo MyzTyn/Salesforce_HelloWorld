@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Stores the courses offered by the language program.</description>
+    <enableActivities>false</enableActivities>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <enableReports>true</enableReports>
+    <label>Language Course</label>
+    <nameField>
+        <label>Course Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Language Courses</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
+

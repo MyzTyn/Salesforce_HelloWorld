@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>RegistrationService</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>RegistrationTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Instructor__c.Active__c</members>
+        <members>Instructor__c.Email__c</members>
+        <members>Language_Course__c.Capacity__c</members>
+        <members>Language_Course__c.Delivery_Mode__c</members>
+        <members>Language_Course__c.Start_Date__c</members>
+        <members>Language_Course__c.Status__c</members>
+        <members>Registration__c.Instructor__c</members>
+        <members>Registration__c.Language_Course__c</members>
+        <members>Registration__c.Participant_Name__c</members>
+        <members>Registration__c.Registered_On__c</members>
+        <members>Registration__c.Status__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Instructor__c</members>
+        <members>Language_Course__c</members>
+        <members>Registration__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>67.0</version>
+</Package>
